@@ -37,8 +37,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # Environment variables
-.env
-.env.*
 !.env.example
 
 # vercel
@@ -47,3 +45,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+config.bat
