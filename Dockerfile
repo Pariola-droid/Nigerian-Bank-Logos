@@ -1,5 +1,5 @@
 # Using a specific version of Alpine for deterministic builds.
-FROM node:24-alpine AS base
+FROM node:25-alpine AS base
 WORKDIR /app
 
 # This stage is dedicated to installing dependencies and will be cached by Docker
