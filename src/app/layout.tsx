@@ -40,8 +40,8 @@ export const metadata: Metadata = {
         images: [
             {
                 url: '/images/og-image-md.jpg',
-                width: '800',
-                height: '600'
+                width: 800,
+                height: 600
             },
             {
                 url: '/images/og-image-lg.jpg',
@@ -58,8 +58,8 @@ export const metadata: Metadata = {
         images: [
             {
                 url: '/images/og-image-md.jpg',
-                width: '800',
-                height: '600'
+                width: 800,
+                height: 600
             },
             {
                 url: '/images/og-image-lg.jpg',
