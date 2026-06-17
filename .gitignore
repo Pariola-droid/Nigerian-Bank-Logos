@@ -34,4 +34,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-config.bat
+
+# local env files (restored by security cleanup)
+.env
+.env.*
+!.env.example
+!.env.sample
